@@ -1,0 +1,52 @@
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\bin\Debug\KinectAdjustTilt.exe
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\bin\Debug\KinectAdjustTilt.pdb
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\MainWindow.baml
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\App.g.cs
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt_MarkupCompile.cache
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.g.resources
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.Properties.Resources.resources
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.exe
+C:\Users\Matt\AppData\Local\Temporary Projects\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.pdb
+C:\Users\Matt\documents\visual studio 2010\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.exe
+C:\Users\Matt\documents\visual studio 2010\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.pdb
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\MainWindow.baml
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\App.g.cs
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt_MarkupCompile.cache
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.g.resources
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.Properties.Resources.resources
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csproj.GenerateResource.cache
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csproj.CoreCompileInputs.cache
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.exe
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.pdb
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\KinectAdjustTilt.exe
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\KinectAdjustTilt.pdb
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\Microsoft.Kinect.dll
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csproj.CopyComplete
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\doeblerke01\Desktop\Kinect Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csprojAssemblyReference.cache
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\KinectAdjustTilt.exe
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\KinectAdjustTilt.pdb
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\Microsoft.Kinect.dll
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csprojAssemblyReference.cache
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\MainWindow.baml
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\App.g.cs
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt_MarkupCompile.cache
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.g.resources
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.Properties.Resources.resources
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csproj.GenerateResource.cache
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csproj.CoreCompileInputs.cache
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.csproj.CopyComplete
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.exe
+C:\Projects\KinectAdjustTilt\KinectAdjustTilt\obj\x86\Debug\KinectAdjustTilt.pdb
